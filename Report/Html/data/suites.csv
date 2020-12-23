@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 23 23:27:33 CST 2020","Wed Dec 23 23:27:39 CST 2020","5715","TestCase","登录套件","Test_Login1","","","test_user_login","用例描述"
