@@ -22,6 +22,6 @@ if __name__=='__main__':
     test_up_error = 'TestCase/Test_Login.py::Test_Login1::test_up_error'
     # pytest.main(['--alluredir','./Report/HtmlData',test_user_error,test_password_error,test_up_error,test_user_login,'-v','-s'])
     pytest.main(['--alluredir','./Report/HtmlData',test_user_login,'-v','-s'])
-    split = 'allure '+'generate '+'./Report/HtmlData '+'-o '+'./Report/Html '+'--clean'
-    os.system(split)
-    main()
+    # split = 'allure '+'generate '+'./Report/HtmlData '+'-o '+'./Report/Html '+'--clean'
+    # os.system(split)
+    # main()

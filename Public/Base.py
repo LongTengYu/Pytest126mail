@@ -35,3 +35,9 @@ class BasePage(object):
         dir = os.path.dirname(os.path.dirname(__file__)).replace('/', '\\') + '\\BugImage\\' + filename  + '.jpg'
         driver.get_screenshot_as_file(dir)  # 跨类调用get_screenshot_as_file方法时，路径只能用绝对路径，不可以使用相对路径
         return dir
+
+    def testa(self,a1):
+        self.aa=a1
+
+    def testb(self):
+        self.bb='2'
