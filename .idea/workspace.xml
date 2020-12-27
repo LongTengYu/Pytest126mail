@@ -3,15 +3,78 @@
   <component name="ChangeListManager">
     <list default="true" id="6a3f6fbe-1bbd-4834-9c81-2c7821ade96d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/WriteEmailPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/WriteEmailPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Public/Base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/SetUp_TearDown.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/SetUp_TearDown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/ZipPack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/ZipPack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/0b706ac5-0dce-4a32-89e4-fcae267adf89-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/0c78ecf1-3f5d-42f9-ad2d-e4c8f51b19af-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/0c96f4fe-1f86-4cdd-8ac8-5deeb3a6717e-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/0cf48cb5-e005-415b-a5a6-fb9149efb00e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/153d7ade-67ce-456a-8cbf-15623b0d761d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/1dfb1af6-aa56-44d2-b243-c7623a858d2e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/1f10fb5d-5828-4cd3-88a0-58e773624c5a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/20a2f5a2-d040-44a1-8349-f7143d159008-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/236de4c0-adc4-49d3-adbf-44a7fd3dc2a1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/2a18a715-e42b-4b28-9b27-5abca408eb0f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/2b4952c6-8f2b-487b-8da7-6d59735d5b60-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/2eff2e52-6a8a-48a4-a1ec-5b9525a1a897-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/2f4e2f05-f584-400e-a51b-d6b4cef6495d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/2f603d33-cb24-4a50-91af-e213dc70d5f8-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/32c30923-70ca-4ca7-b3ff-5f2090f44d60-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/3e6243bb-1d9e-4714-bf71-89d2f1d29b2f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/4621e866-d203-4e03-8c6d-8783b9e9bf66-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/4b63edfa-4d40-433f-9291-749f07a7ceb9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/704dbe17-6474-484c-b32c-fd33a0ede9fa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/750e2e01-b8f7-4779-af91-d5c8c9db00d4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/7d1331f4-fde6-44d2-9565-9bef60672c08-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/7eef5e20-4000-49fb-9a6b-1c8c4fd09b33-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/809e46f3-896e-442c-8bae-7e04d63ac820-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/8264c68e-2962-4c85-b190-bfb6a99f988b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/827665c6-0ea6-478e-9172-df0516a5ad7e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/8a8a190a-c019-4895-bcc0-1a9bba240c29-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/9845531e-7b57-46fe-874c-5e8cb5112054-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/9dad3aa5-9e70-48d2-851c-8e6bbd7cbc58-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/a019f46d-7f29-4e67-9f73-2fcbc71069b1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/a2545339-5a58-47f5-b0b0-b616d19f0f12-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/a6a9d90d-65ee-482e-811d-0840736be161-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/adafee27-9a0b-4a1e-9a96-254957db1d0e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/b15da3e6-a77b-4ee2-90f9-8bc6fc1a6573-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/b16c914c-79d6-48e9-9331-8845e98b42a2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/b1a1a002-679c-426a-8001-d84dc921e5c8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/b3ef1124-d8ca-46fd-866b-951ee05934b3-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/b526c3ff-2cc2-4776-b000-0850bd654f02-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/c1e39784-72d3-4983-88ca-6c595ab1ba28-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/c5839c9f-908c-466c-8332-96dc2aa90039-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/c5ad9711-a7cc-4659-8f5d-c4fbb568496d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/c7cf5f7a-4123-4db0-843f-3ab59d928f0f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/c995882d-4126-48e6-ab83-cf22cf343a27-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/caddeb55-a394-40f8-abdd-890db8552d01-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/db244479-3aca-47b0-a36c-267c99ed0876-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/df1d90b7-a62b-4d14-8373-812da9997876-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/e09d7a33-3b20-43ea-98e4-e79c1fe1a442-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/e9c735d5-341b-4168-ad03-b8f6b01a1614-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/ed72fedc-f641-4b19-859b-50dc442b01cb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/ffd2f19c-a5b7-4d8e-82ab-152480c05a2a-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/Test_A.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/Test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/Test_WriteEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_WriteEmail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,6 +90,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Caculator" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_Login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest126mail" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +156,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/Test_Login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/Test_A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_fixture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest126mail" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_fixture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fixture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest126mail" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fixture.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,8 +212,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Run" />
+        <item itemvalue="Python.Test_A" />
+        <item itemvalue="Python.fixture" />
+        <item itemvalue="Python.Test_fixture" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Test_Login" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +243,9 @@
       <updated>1608731308843</updated>
       <workItem from="1608731310880" duration="7001000" />
       <workItem from="1608820236629" duration="7581000" />
+      <workItem from="1608953374715" duration="1244000" />
+      <workItem from="1608966782398" duration="8054000" />
+      <workItem from="1609080200979" duration="8539000" />
     </task>
     <servers />
   </component>
@@ -153,77 +266,84 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="741" height="466" key="DebuggerActiveHint" timestamp="1608827335673">
+    <state width="1259" height="466" key="DebuggerActiveHint" timestamp="1609088059349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="741" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1608827335673" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1608828420212">
+    <state width="1259" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1609088059349" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1608987259084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1608828420212">
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608987259084" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1609088745431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1608828420212">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1609088745431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1608828420212">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1609088745431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608828420212">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1609088745431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1608828420212">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1609088745431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1608828420212">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1609088745431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1608828420212">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1609088745431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608828420212" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1609088745431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609088745431" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Public/SetUp_TearDown.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/TestCase/Test_Login.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Test.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/PageObject/WriteEmailPage.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Test.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/PageObject/WriteEmailPage.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Test.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/PageObject/WriteEmailPage.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Test.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/PageObject/WriteEmailPage.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Pytest126mail$Run.coverage" NAME="Run Coverage Results" MODIFIED="1608828341470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytest126mail$Test_A.coverage" NAME="Test_A Coverage Results" MODIFIED="1609083468887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/Pytest126mail$Run.coverage" NAME="Run Coverage Results" MODIFIED="1609088611906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytest126mail$fixture.coverage" NAME="fixture Coverage Results" MODIFIED="1608987012536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytest126mail$Test_Login.coverage" NAME="Test_Login Coverage Results" MODIFIED="1608733572083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
-    <SUITE FILE_PATH="coverage/Pytest126mail$Test.coverage" NAME="Test Coverage Results" MODIFIED="1608826901712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytest126mail$Test.coverage" NAME="Test Coverage Results" MODIFIED="1608970631637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytest126mail$Test_fixture.coverage" NAME="Test_fixture Coverage Results" MODIFIED="1608986282044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

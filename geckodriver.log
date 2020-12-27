@@ -2848,3 +2848,998 @@ JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2
 JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
 JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
 JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1608828315963	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilesMxcKn"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608828318164	Marionette	INFO	Listening on port 55660
+1608828318187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1608828423364	Marionette	INFO	Stopped listening on port 55660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608828347299	Marionette	INFO	Listening on port 55790
+1608828347331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1608828422169	Marionette	INFO	Stopped listening on port 55790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609080717738	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofiletrQZGU"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609080719962	Marionette	INFO	Listening on port 18569
+1609080720499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609080728532	Marionette	INFO	Stopped listening on port 18569
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609080769875	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileb2Iq0A"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609080771922	Marionette	INFO	Listening on port 18661
+1609080771986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609080785242	Marionette	INFO	Stopped listening on port 18661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609080799593	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileURIz4o"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609080801596	Marionette	INFO	Listening on port 18742
+1609080801699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609081084918	Marionette	INFO	Stopped listening on port 18742
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609080850766	Marionette	INFO	Listening on port 18834
+1609080850797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1609081086204	Marionette	INFO	Stopped listening on port 18834
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609080888720	Marionette	INFO	Listening on port 18925
+1609080888833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609081088105	Marionette	INFO	Stopped listening on port 18925
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609080965864	Marionette	INFO	Listening on port 19030
+1609080965946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609081089285	Marionette	INFO	Stopped listening on port 19030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609081088128	Marionette	INFO	Listening on port 19172
+1609081088599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609081106688	Marionette	INFO	Stopped listening on port 19172
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609081134261	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileje1e1d"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609081136373	Marionette	INFO	Listening on port 19228
+1609081136382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609081157557	Marionette	INFO	Stopped listening on port 19228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609081164185	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileIEHOBH"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609081166209	Marionette	INFO	Listening on port 19278
+1609081166301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609081368630	Marionette	INFO	Stopped listening on port 19278
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609081308828	Marionette	INFO	Listening on port 19327
+1609081308970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609082679179	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileuwbrBE"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609082681261	Marionette	INFO	Listening on port 19514
+1609082681304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1609083055119	Marionette	INFO	Stopped listening on port 19514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609082745608	Marionette	INFO	Listening on port 19560
+1609082745734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083053857	Marionette	INFO	Stopped listening on port 19560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609082780844	Marionette	INFO	Listening on port 19610
+1609082780881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609082781454	Marionette	INFO	Stopped listening on port 19610
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609082926435	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilevV2Ws4"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609082928463	Marionette	INFO	Listening on port 19672
+1609082928542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083056327	Marionette	INFO	Stopped listening on port 19672
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609082972194	Marionette	INFO	Listening on port 19724
+1609082972269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083052376	Marionette	INFO	Stopped listening on port 19724
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofile5OicF8"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083043129	Marionette	INFO	Listening on port 19781
+1609083043167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083048700	Marionette	INFO	Stopped listening on port 19781
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609083094810	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileRPWrqf"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083096864	Marionette	INFO	Listening on port 19833
+1609083096924	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083928120	Marionette	INFO	Stopped listening on port 19833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083279159	Marionette	INFO	Listening on port 19889
+1609083279611	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083929133	Marionette	INFO	Stopped listening on port 19889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083575048	Marionette	INFO	Listening on port 19961
+1609083575091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083930072	Marionette	INFO	Stopped listening on port 19961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083640441	Marionette	INFO	Listening on port 20014
+1609083640455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083930898	Marionette	INFO	Stopped listening on port 20014
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083698865	Marionette	INFO	Listening on port 20064
+1609083698885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083795374	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileymMMPm"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083797425	Marionette	INFO	Listening on port 20121
+1609083797486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083871235	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileAbQEhO"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083873300	Marionette	INFO	Listening on port 20167
+1609083873350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1609083931903	Marionette	INFO	Stopped listening on port 20167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609083899232	Marionette	INFO	Listening on port 20211
+1609083899279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609083932808	Marionette	INFO	Stopped listening on port 20211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609084393774	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileTgyBoh"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609084395881	Marionette	INFO	Listening on port 20593
+1609084395887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609084648889	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilewXo5il"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609084650941	Marionette	INFO	Listening on port 20664
+1609084651003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1609084708148	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileghFrgD"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609084710158	Marionette	INFO	Listening on port 20707
+1609084710259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1609084785284	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileRSyjg0"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609084787316	Marionette	INFO	Listening on port 20756
+1609084787393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609085207850	Marionette	INFO	Stopped listening on port 20756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609084824254	Marionette	INFO	Listening on port 20833
+1609084824277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609084863166	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileEADEDK"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609084865252	Marionette	INFO	Listening on port 20906
+1609084865280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609084875062	Marionette	INFO	Stopped listening on port 20906
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609085024739	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofile8ILtPQ"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609085026889	Marionette	INFO	Listening on port 20986
+1609085026950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609085208913	Marionette	INFO	Stopped listening on port 20986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609085057774	Marionette	INFO	Listening on port 21069
+1609085057867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609085209916	Marionette	INFO	Stopped listening on port 21069
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609085205034	Marionette	INFO	Listening on port 21153
+1609085205096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1609085211585	Marionette	INFO	Stopped listening on port 21153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609085248627	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileY4tQ3W"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609085250734	Marionette	INFO	Listening on port 21230
+1609085250744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609085259523	Marionette	INFO	Stopped listening on port 21230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609085301622	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilebawoD9"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609085303741	Marionette	INFO	Listening on port 21329
+1609085303838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609085380270	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofile1GSJHB"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609085382408	Marionette	INFO	Listening on port 21403
+1609085382479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609085403308	Marionette	INFO	Stopped listening on port 21403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609085847641	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilend5bVQ"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609085849765	Marionette	INFO	Listening on port 21509
+1609085849851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609085894872	Marionette	INFO	Stopped listening on port 21509
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609086150768	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileiOyUBx"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609086152976	Marionette	INFO	Listening on port 21636
+1609086153478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609086166488	Marionette	INFO	Stopped listening on port 21636
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609086508303	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileeUZFEr"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609086510563	Marionette	INFO	Listening on port 22075
+1609086511018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609086535866	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileWMT7cS"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609086538089	Marionette	INFO	Listening on port 22186
+1609086538575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609086569712	Marionette	INFO	Stopped listening on port 22186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609086597169	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilexmW9c9"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609086599369	Marionette	INFO	Listening on port 22399
+1609086599379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609086612502	Marionette	INFO	Stopped listening on port 22399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609086722947	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilebFtwP9"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609086725186	Marionette	INFO	Listening on port 22685
+1609086725658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609086738901	Marionette	INFO	Stopped listening on port 22685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609086771592	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileXSCqOw"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609086773650	Marionette	INFO	Listening on port 22836
+1609086773706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609086781971	Marionette	INFO	Stopped listening on port 22836
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609086848181	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileusVTmF"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609086850260	Marionette	INFO	Listening on port 23009
+1609086850309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript error: https://s6.music.126.net/puzzle/puzzle@0002A4.js, line 1: TypeError: u.parentNode is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609086970477	Marionette	INFO	Stopped listening on port 23009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609087015155	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileEZviFl"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609087017296	Marionette	INFO	Listening on port 23345
+1609087017364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript error: https://s6.music.126.net/puzzle/puzzle@0002A4.js, line 1: TypeError: u.parentNode is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609087187238	Marionette	INFO	Stopped listening on port 23345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609087342075	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofiledf87E4"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609087344175	Marionette	INFO	Listening on port 23863
+1609087344184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+1609087370455	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileAmqtKi"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609087372533	Marionette	INFO	Listening on port 23994
+1609087372565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609087416001	Marionette	INFO	Stopped listening on port 23994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609087449915	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileEyXZUh"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609087452000	Marionette	INFO	Listening on port 24203
+1609087452025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609087539968	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofiletxYkIt"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609087542115	Marionette	INFO	Listening on port 24427
+1609087542176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609087637944	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilekJ1ndo"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609087639998	Marionette	INFO	Listening on port 24671
+1609087640053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609087653458	Marionette	INFO	Stopped listening on port 24671
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609087978866	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofile9u340t"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609087980975	Marionette	INFO	Listening on port 25267
+1609087980985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609088097006	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileZVPcv1"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609088099116	Marionette	INFO	Listening on port 25530
+1609088099218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609088120149	Marionette	INFO	Stopped listening on port 25530
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609088299502	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileIiUdRN"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609088301582	Marionette	INFO	Listening on port 25925
+1609088301610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_d76a54d769f9cc8ebf4113805d134826.js?d76a54d769f9cc8ebf4113805d134826, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_c6c1aa2764bd74ef9964e39a600b613d.js?c6c1aa2764bd74ef9964e39a600b613d, line 11: unreachable code after return statement
+1609088330369	Marionette	INFO	Stopped listening on port 25925
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609088405197	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofileiqwKLI"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609088407367	Marionette	INFO	Listening on port 26156
+1609088407410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609088439779	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilew9MZpj"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609088441872	Marionette	INFO	Listening on port 26270
+1609088441890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609088450325	Marionette	INFO	Stopped listening on port 26270
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609088489333	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilevxYyhW"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609088491466	Marionette	INFO	Listening on port 26403
+1609088491564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609088500857	Marionette	INFO	Stopped listening on port 26403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609088572831	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofilejwJPFw"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609088574926	Marionette	INFO	Listening on port 26592
+1609088574950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609088584799	Marionette	INFO	Stopped listening on port 26592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609088615563	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yuxiao\\AppData\\Local\\Temp\\rust_mozprofiles5rbU7"
+JavaScript error: io0jsvo0ovp.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609088617635	Marionette	INFO	Listening on port 26722
+1609088617675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+JavaScript warning: https://mimg.127.net/p/tools/fingerprintjs/fingerprint-2.1.2.min.js, line 4: WebGL context was lost.
+1609088647152	Marionette	INFO	Stopped listening on port 26722
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
