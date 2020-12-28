@@ -3,11 +3,10 @@ from selenium import webdriver
 
 
 class su_td(BasePage):
-    driver = webdriver.Firefox()
-    driver.maximize_window()
+    def setup_method(self):
+        driver = webdriver.Firefox()
+        driver.maximize_window()
+        self.goto_url(driver)
 
-    def setup_class(self):
-        self.goto_url(self, self.driver)
-
-    def teardown_class(self):
+    def teardown_method(self):
         self.driver.quit()  # 结束浏览器调用

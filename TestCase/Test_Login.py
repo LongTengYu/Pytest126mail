@@ -18,7 +18,6 @@ class Test_Login1(su_td,Login):
         self.type_iframe()
         self.type_username(self.username)  # 调用用户名方法
         self.type_password(self.password)  # 调用密码方法
-        sleep(20)
         self.submit()  # 调用登录按钮方法
         self.parentframe()  # 跳出登录框
         sleep(5)
@@ -78,3 +77,4 @@ class Test_Login1(su_td,Login):
         if success != '帐号或密码错误':  # 根据错误信息判断测试结果是否成功，若不成功则截图保存并返回错误提示
             su_td().insert_img(self.driver, '帐号或密码错误')  # 截图
             self.assertEqual(success, '帐号或密码错误', msg='帐号或密码错误')  # 返回错误提示
+

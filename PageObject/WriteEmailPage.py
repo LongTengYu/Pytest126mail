@@ -13,7 +13,6 @@ class WriteEmail(BasePage):
     email_title_loc = (By.XPATH, '//input[contains(@id,"subjectInput")]')
     body_iframe_loc = (By.XPATH, '//iframe[@class="APP-editor-iframe"]')
     email_text_loc = (By.XPATH, '//body[contains(@class,"nui-scroll")]')
-    # email_text_loc = (By.XPATH, '/html/body')
     send_loc = (By.XPATH, '//span[text()="发送"]')
 
     # 点击写信按钮，进入写信页面
@@ -33,18 +32,19 @@ class WriteEmail(BasePage):
 
     # 定位iframe   通过xpath路径获取iframe控件
     def body_iframe(self):
-        for i in self.driver.find_element_by_tag_name('iframe'):
-            print(i)
-        self.find_element_method(*self.body_iframe_loc)
+        iframe = self.find_element_method(*self.body_iframe_loc)  # 因继承了Page类，所有可以调用Page类中的find_element_method方法来
+        self.driver.switch_to.frame(iframe)  # 获取页面元素
         sleep(1)
 
     # 输入邮件正文，并返回到父iframe中
     def email_text(self, mailtext):
         self.find_element_method(*self.email_text_loc).send_keys(mailtext)
-        self.driver.switch_to.parent_frame()
-        print('a')
 
     # 点击发送按钮
     def send(self):
-        self.find_element_method(*self.send_loc)
+        self.find_element_method(*self.send_loc).click()
         sleep(5)
+
+    # 返回到主目录下
+    def default_content(self):
+        self.driver.switch_to.default_content()

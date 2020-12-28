@@ -1,9 +1,7 @@
 import pytest
 from time import *
-import os
 from Public.Email import EmailEnclosure
 from Public.ZipPack import *
-
 
 def main():
     t = strftime("%Y-%m-%d %H_%M_%S")  # 获取时间，并将时间格式化为字符串
@@ -24,10 +22,10 @@ if __name__ == '__main__':
     test_up_error = 'TestCase/Test_Login.py::Test_Login1::test_up_error'
     test_writemaillogin='TestCase/Test_WriteEmail.py::Test_WriteEmail_class::test_user_login'
     test_writemail='TestCase/Test_WriteEmail.py::Test_WriteEmail_class::test_email'
+    test_aa='TestCase/Test_Login.py::Test_Login1::test_aa'
     # pytest.main(['--alluredir','./Report/HtmlData',test_user_error,test_password_error,test_up_error,test_user_login,'-v','-s'])
     # pytest.main(['--alluredir', './Report/HtmlData', test_user_login, '-v', '-s'])
-    pytest.main(['--alluredir', './Report/HtmlData', test_user_login ,'-v', '-s'])
-    pytest.main(['--alluredir', './Report/HtmlData', test_writemaillogin,test_writemail, '-v', '-s'])
+    pytest.main(['--alluredir', './Report/HtmlData', test_user_login,test_writemail, '-v', '-s'])
     # split = 'allure '+'generate '+'./Report/HtmlData '+'-o '+'./Report/Html '+'--clean'
     # os.system(split)
     # main()

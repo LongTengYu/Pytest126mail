@@ -39,4 +39,5 @@ class Test_WriteEmail_class(su_td, WriteEmail, Login):
         self.email_title(mailtitle)
         self.body_iframe()
         self.email_text(mailtext)
-        self.find_element_method()
+        self.default_content()
+        self.send()
