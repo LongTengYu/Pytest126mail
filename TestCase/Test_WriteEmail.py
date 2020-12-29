@@ -1,23 +1,30 @@
+import pytest
+
 from PageObject.WriteEmailPage import WriteEmail
 from Public.SetUp_TearDown import su_td
 from PageObject.LoginPage import Login
 from time import *
 import allure
 
-
+@allure.feature('发送邮件模块')  # 声明模块名称
+@allure.description('发送邮件用例描述')  # 声明描述
+@allure.suite('发送邮件套件')
+@allure.link('https://mail.126.com/','126邮箱地址')
 class Test_WriteEmail_class(su_td, WriteEmail, Login):
     username = 'yuxiao8520'  # 声明用户名
     password = '5esHc2Tp5nMULGa'  # 声明密码
 
+    @allure.title('登录')
+    @allure.severity('blocker')
+    @pytest.mark.run(order=5)
     def test_user_login(self):  # 登录成功测试模块
 
         self.type_iframe()
         self.type_username(self.username)  # 调用用户名方法
         self.type_password(self.password)  # 调用密码方法
-
         self.submit()  # 调用登录按钮方法
         self.parentframe()  # 跳出登录框
-        sleep(5)
+        sleep(20)
         success = self.type_success()  # 获取登录信息
         if success == 'yuxiao8520@126.com':
             filename = '登录成功' + strftime("%Y-%m-%d %H_%M_%S")  # 获取当前时间
@@ -30,6 +37,9 @@ class Test_WriteEmail_class(su_td, WriteEmail, Login):
             su_td().insert_img(self.driver, t)  # 截图
             self.assertEqual(success, 'yuxiao8520@126.com', msg='登录失败')  # 判断是否登录成功
 
+    @allure.title('发邮件')
+    @allure.severity('blocker')
+    @pytest.mark.run(order=6)
     def test_email(self):
         mailaddres='164357259@qq.com'
         mailtitle='测试1'

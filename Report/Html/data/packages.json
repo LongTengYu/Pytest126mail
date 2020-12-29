@@ -2,21 +2,94 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "TestCase.Test_Login",
+    "name" : "TestCase",
     "children" : [ {
-      "name" : "test_user_login",
-      "uid" : "b900ac3e070b623c",
-      "parentUid" : "190e76d3d37fd15de0c943658d2682af",
-      "status" : "passed",
-      "time" : {
-        "start" : 1608737253854,
-        "stop" : 1608737259569,
-        "duration" : 5715
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "Test_Login",
+      "children" : [ {
+        "name" : "账号为空测试",
+        "uid" : "8a837450d6bf706f",
+        "parentUid" : "190e76d3d37fd15de0c943658d2682af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609258959644,
+          "stop" : 1609258964164,
+          "duration" : 4520
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "密码为空测试",
+        "uid" : "18f41336fa6ad46c",
+        "parentUid" : "190e76d3d37fd15de0c943658d2682af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609258964167,
+          "stop" : 1609258968476,
+          "duration" : 4309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "帐号或密码错误测试",
+        "uid" : "f724e2367327368b",
+        "parentUid" : "190e76d3d37fd15de0c943658d2682af",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609258968478,
+          "stop" : 1609258973070,
+          "duration" : 4592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录成功测试",
+        "uid" : "71d021fd63300818",
+        "parentUid" : "190e76d3d37fd15de0c943658d2682af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609258973126,
+          "stop" : 1609258993752,
+          "duration" : 20626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "190e76d3d37fd15de0c943658d2682af"
+    }, {
+      "name" : "Test_WriteEmail",
+      "children" : [ {
+        "name" : "登录",
+        "uid" : "9be6a51ecd47e405",
+        "parentUid" : "af1dd8e35e5b6265ac823fec15eba5bc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609259001439,
+          "stop" : 1609259022287,
+          "duration" : 20848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "发邮件",
+        "uid" : "c2e2e937411db9a7",
+        "parentUid" : "af1dd8e35e5b6265ac823fec15eba5bc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609259022290,
+          "stop" : 1609259032748,
+          "duration" : 10458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af1dd8e35e5b6265ac823fec15eba5bc"
     } ],
-    "uid" : "TestCase.Test_Login"
+    "uid" : "9fa14e2db0d1ecbd3a4c5f0825d2ac34"
   } ]
 }

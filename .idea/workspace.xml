@@ -3,8 +3,57 @@
   <component name="ChangeListManager">
     <list default="true" id="6a3f6fbe-1bbd-4834-9c81-2c7821ade96d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/WriteEmailPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/WriteEmailPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Public/SetUp_TearDown.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/SetUp_TearDown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/3fadd1dada8f491c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/986ad9696032e8bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/b47225b7102a6db5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/d928a21b5aa3397f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/efdf60d78280e034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/1def144a08c5970b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/21bd7a81264eb0a0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/3682213b4a23687.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/4cec48b5092f7709.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/4ebef611183e3f15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/54ce8de9edd7df4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/590a77140c4cd520.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/5cd19b8a6b940b7e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/607cfe2b4340f0c9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/7d150ebccd1236f4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/a45e87e396e5f25c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/b77a20fd3f0591e7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/b900ac3e070b623c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/c68162040b06233d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/ca25ad6a1626e787.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/cd6bf49c996eb365.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/e67fb3097e70efdd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/e8988607bd0ba0eb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/f0997539eb472b88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/summary.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCase/Test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_Login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCase/Test_WriteEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_WriteEmail.py" afterDir="false" />
@@ -192,7 +241,8 @@
       <workItem from="1608953374715" duration="1244000" />
       <workItem from="1608966782398" duration="8054000" />
       <workItem from="1609080200979" duration="8539000" />
-      <workItem from="1609166272820" duration="7547000" />
+      <workItem from="1609166272820" duration="7917000" />
+      <workItem from="1609250101002" duration="7514000" />
     </task>
     <servers />
   </component>
@@ -221,42 +271,53 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608987259084" />
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1609173712727">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1609258951685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609173712727" />
-    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1609173712727">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1609258951685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609173712727" />
-    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1609173712726">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1609258951685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609173712726" />
-    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1609173712727">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1609258951685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609173712727" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1609173719852">
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1609174861302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609173719852" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1609173719852">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609174861302" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1609174861302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609173719852" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1609173719852">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609174861302" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1609174861302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609173719852" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1609173719852">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609174861302" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1609174861302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609173719852" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609174861302" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Public/SetUp_TearDown.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pytest126mail$Test_A.coverage" NAME="Test_A Coverage Results" MODIFIED="1609083468887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
-    <SUITE FILE_PATH="coverage/Pytest126mail$Run.coverage" NAME="Run Coverage Results" MODIFIED="1609173712630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytest126mail$Run.coverage" NAME="Run Coverage Results" MODIFIED="1609258951678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytest126mail$fixture.coverage" NAME="fixture Coverage Results" MODIFIED="1608987012536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytest126mail$Test_Login.coverage" NAME="Test_Login Coverage Results" MODIFIED="1608733572083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
     <SUITE FILE_PATH="coverage/Pytest126mail$Test.coverage" NAME="Test Coverage Results" MODIFIED="1608970631637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
