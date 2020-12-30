@@ -12,8 +12,10 @@ import allure
 @allure.link('https://mail.126.com/','126邮箱地址')
 class Test_Login1(su_td,Login):
 
-    username = 'yuxiao8520'  # 声明用户名
-    password = '5esHc2Tp5nMULGa'  # 声明密码
+    # --------------------------------------------
+    username = '126邮箱账号'  # 126邮箱账号
+    password = '126邮箱密码'  # 126邮箱密码
+    # --------------------------------------------
 
     @allure.title('登录成功测试')
     @allure.severity('blocker')
@@ -26,8 +28,12 @@ class Test_Login1(su_td,Login):
         self.submit()  # 调用登录按钮方法
         self.parentframe()  # 跳出登录框
         sleep(20)
-        success = self.type_success()  # 获取登录信息
-        if success == 'yuxiao8520@126.com':
+        success = self.type_success()  # 获取登录后的用户名信息
+
+        # -----------------------------------------------------------------------------
+        if success == '用户名':
+            # -----------------------------------------------------------------------------
+
             filename = '登录成功' + strftime("%Y-%m-%d %H_%M_%S")  # 获取当前时间
             dir = su_td().insert_img(self.driver, filename)  # 截图
             with allure.step('用户名：Long 密码：123456'):

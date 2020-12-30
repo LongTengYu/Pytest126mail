@@ -1,13 +1,10 @@
 from time import *
-from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from Public.Base import BasePage
 
 
 # 写邮件
 class WriteEmail(BasePage):
-    # self, driver:WebDriver, mailaddres, mailtitle, mailtext
-
     writeEmail_button_loc = (By.XPATH, '//span[(text()="写 信")]')
     email_address_loc = (By.XPATH, '//input[contains(@class,"nui-editableAddr-ipt")]')
     email_title_loc = (By.XPATH, '//input[contains(@id,"subjectInput")]')

@@ -13,7 +13,6 @@ class BasePage(object):
         self.base_url = base_url  # 和超时时间（timeout）
         self.driver = selenium_driver
         self.driver.get(base_url)
-        self.timeout = 30
 
     def find_element_method(self, *loc):  # 定位元素方法,*loc为一个元组类型的参数
         return self.driver.find_element(*loc)
@@ -22,4 +21,5 @@ class BasePage(object):
         dir = os.path.dirname(os.path.dirname(__file__)).replace('/', '\\') + '\\BugImage\\' + filename + '.jpg'
         driver.get_screenshot_as_file(dir)  # 跨类调用get_screenshot_as_file方法时，路径只能用绝对路径，不可以使用相对路径
         return dir
+
 

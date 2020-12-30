@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Wed Dec 30 00:22:48 CST 2020","Wed Dec 30 00:22:53 CST 2020","4592","TestCase","登录套件","Test_Login1","","","帐号或密码错误测试","用例描述"
-"passed","Wed Dec 30 00:22:53 CST 2020","Wed Dec 30 00:23:13 CST 2020","20626","TestCase","登录套件","Test_Login1","","","登录成功测试","用例描述"
-"passed","Wed Dec 30 00:23:42 CST 2020","Wed Dec 30 00:23:52 CST 2020","10458","TestCase","发送邮件套件","Test_WriteEmail_class","","","发邮件","发送邮件用例描述"
-"passed","Wed Dec 30 00:22:39 CST 2020","Wed Dec 30 00:22:44 CST 2020","4520","TestCase","登录套件","Test_Login1","","","账号为空测试","用例描述"
-"passed","Wed Dec 30 00:22:44 CST 2020","Wed Dec 30 00:22:48 CST 2020","4309","TestCase","登录套件","Test_Login1","","","密码为空测试","用例描述"
-"passed","Wed Dec 30 00:23:21 CST 2020","Wed Dec 30 00:23:42 CST 2020","20848","TestCase","发送邮件套件","Test_WriteEmail_class","","","登录","发送邮件用例描述"

@@ -16,7 +16,10 @@ def main():
 
 
 if __name__ == '__main__':
-
+    '''
+    特别说明：
+    pytest的运行机制是将所有被执行文件先轮巡一遍后再执行。这一点要特别注意。对用例的执行顺序是有影响的。
+    '''
     test_login='TestCase/Test_Login.py'
     test_email='TestCase/Test_WriteEmail.py'
     pytest.main(['--alluredir', './Report/HtmlData', test_login,test_email, '-vs'])

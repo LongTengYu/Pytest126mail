@@ -3,66 +3,116 @@
   <component name="ChangeListManager">
     <list default="true" id="6a3f6fbe-1bbd-4834-9c81-2c7821ade96d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/11、Pytest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/12、Allure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/3、UI自动化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/4、自动化实践.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Image/001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Models/LoginPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Public/BugImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Public/Email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Public/HTMLTestRunnerCN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Public/MyUnittest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Public/OpenURL.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Public/Screenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/PublicLogin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Report/001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Report/result2020-12-17 22_57_22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/Run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/TestCase/LoginCase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/TestCase/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1old/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BugImage/帐号或密码错误2020-12-30 00_22_52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BugImage/登录成功2020-12-22 00_19_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BugImage/登录成功2020-12-30 00_23_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BugImage/登录成功2020-12-30 00_23_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/WriteEmailPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/WriteEmailPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/Base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/Email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Email.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Public/SetUp_TearDown.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/SetUp_TearDown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/3fadd1dada8f491c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/986ad9696032e8bf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/b47225b7102a6db5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/d928a21b5aa3397f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/efdf60d78280e034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/behaviors.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/behaviors.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/categories.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/packages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/suites.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/suites.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/1def144a08c5970b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/21bd7a81264eb0a0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/3682213b4a23687.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/4cec48b5092f7709.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/4ebef611183e3f15.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/54ce8de9edd7df4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/590a77140c4cd520.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/5cd19b8a6b940b7e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/607cfe2b4340f0c9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/7d150ebccd1236f4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/a45e87e396e5f25c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/b77a20fd3f0591e7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/b900ac3e070b623c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/c68162040b06233d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/ca25ad6a1626e787.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/cd6bf49c996eb365.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/e67fb3097e70efdd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/e8988607bd0ba0eb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/f0997539eb472b88.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/data/timeline.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/export/influxDbData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/export/prometheusData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/categories-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/duration-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/history-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/history/retry-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/behaviors.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/categories-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/duration-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/duration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/history-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/retry-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/severity.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/status-chart.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/suites.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Html/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/19c7de4beffcb84f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/9207f08fa8bd47d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/attachments/a484017bc4f2389f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/18f41336fa6ad46c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/71d021fd63300818.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/8a837450d6bf706f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/9be6a51ecd47e405.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/c2e2e937411db9a7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/test-cases/f724e2367327368b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Html/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/12d332fa-d762-4823-a085-67fc47a0dda4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/4916fc83-e63f-4ef0-a2a8-d838af4fb189-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/4bf03b55-2a42-4e12-a4fb-7fc592b575d8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/639e9eca-9a70-4b40-922a-c197f12d5746-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/73dd3c42-02ef-4a39-982e-72acac06eccf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/741e1bf9-35a8-4310-835c-40e3ddc12b0d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/74bfe90d-f982-4ddc-ae67-6fdaa7c3a535-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/92f1213c-5491-4cd8-bc03-b490ddeed8fe-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/d2dfa812-9f87-4467-a313-16c0d7923108-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/d9145193-a897-4627-b311-bdbb879e6900-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/HtmlData/dda41598-edf7-49ec-80b9-3ef2d48be884-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Zip/test2020-12-23 22_06_01.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Zip/test2020-12-30 00_23_57.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCase/Test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_Login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCase/Test_WriteEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_WriteEmail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,7 +143,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.Run">
+  <component name="RunManager" selected="Python.Test">
     <configuration name="Run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest126mail" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Run" />
         <item itemvalue="Python.Test_A" />
         <item itemvalue="Python.fixture" />
         <item itemvalue="Python.Test_fixture" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +292,9 @@
       <workItem from="1608966782398" duration="8054000" />
       <workItem from="1609080200979" duration="8539000" />
       <workItem from="1609166272820" duration="7917000" />
-      <workItem from="1609250101002" duration="7514000" />
+      <workItem from="1609250101002" duration="7692000" />
+      <workItem from="1609337975358" duration="3798000" />
+      <workItem from="1609341834036" duration="1871000" />
     </task>
     <servers />
   </component>
@@ -271,22 +323,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608987259084" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1609258951685">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1609341776653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1609258951685">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609341776653" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1609341776652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1609258951685">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609341776652" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1609341776652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1609258951685">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609341776652" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1609341776653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609258951685" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609341776653" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1609174861302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -320,7 +372,7 @@
     <SUITE FILE_PATH="coverage/Pytest126mail$Run.coverage" NAME="Run Coverage Results" MODIFIED="1609258951678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytest126mail$fixture.coverage" NAME="fixture Coverage Results" MODIFIED="1608987012536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytest126mail$Test_Login.coverage" NAME="Test_Login Coverage Results" MODIFIED="1608733572083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
-    <SUITE FILE_PATH="coverage/Pytest126mail$Test.coverage" NAME="Test Coverage Results" MODIFIED="1608970631637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytest126mail$Test.coverage" NAME="Test Coverage Results" MODIFIED="1609341458423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytest126mail$Test_fixture.coverage" NAME="Test_fixture Coverage Results" MODIFIED="1608986282044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
